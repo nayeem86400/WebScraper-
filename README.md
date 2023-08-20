@@ -1,2 +1,2 @@
 # WebScraper-
-Running a custom webscraper on yelp.com
+Running a custom web scraper on yelp.com using Beautifulsoup4. 
